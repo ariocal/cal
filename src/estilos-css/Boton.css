@@ -1,0 +1,28 @@
+.boton-contenedor{
+    height: 82px;
+    background-color: rgb(42, 40, 40);
+    color: rgb(251, 231, 194);
+    border: 2px solid white;
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1 1;
+    font-weight: bold;
+    font-size: 38px;
+    margin: 4px;
+    cursor: pointer;
+    user-select: none;
+}
+
+.boton-contenedor:hover{
+    background-color:hotpink;
+}
+
+.operador{
+    background-color: cadetblue; 
+}
+
+.operador:hover{
+    background-color: coral;
+}
